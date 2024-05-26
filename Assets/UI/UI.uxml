@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="-unity-text-align: upper-left; height: 424px;">
+        <ui:VisualElement name="Player1" style="background-color: rgba(255, 255, 255, 0.39); width: auto; align-items: flex-start; justify-content: flex-start; position: absolute; top: 0; left: 0; bottom: auto;">
+            <ui:Label text="Player 1" display-tooltip-when-elided="true" name="Player1_Label" style="width: auto; color: rgb(0, 4, 216);" />
+            <ui:Label text="Verbleibende Karten" display-tooltip-when-elided="true" name="Score_Player1" style="color: rgb(0, 4, 216);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Player2" style="background-color: rgba(255, 255, 255, 0.39); width: auto; position: absolute; align-items: flex-start; left: auto; right: 0; -unity-background-image-tint-color: rgba(255, 255, 255, 0.39); white-space: normal; top: 0; justify-content: space-around; margin-left: auto; margin-bottom: auto; margin-top: 0; margin-right: 0; padding-top: 0; height: auto;">
+            <ui:Label text="Player 2" display-tooltip-when-elided="true" name="Player2_Label" style="white-space: nowrap; -unity-text-align: middle-left; height: auto; width: auto; align-items: flex-end; justify-content: flex-start; color: rgb(17, 107, 0);" />
+            <ui:Label text="Verbleibende Karten" display-tooltip-when-elided="true" name="Score_Player2" style="color: rgb(17, 107, 0);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Player3" style="background-color: rgba(255, 255, 255, 0.39); width: auto; left: auto; top: auto; position: absolute; bottom: 0; right: 0; margin-right: 0; margin-bottom: 0; margin-left: auto; margin-top: auto;">
+            <ui:Label text="Player 3" display-tooltip-when-elided="true" name="Player3_Label" style="-unity-text-align: upper-left; align-items: auto; bottom: 1%; top: auto; width: auto; right: auto; color: rgb(183, 10, 14);" />
+            <ui:Label text="Verbleibende Karten" display-tooltip-when-elided="true" name="Score_Player3" style="color: rgb(183, 10, 14);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Player4" style="height: auto; width: auto; background-color: rgba(255, 255, 255, 0.39); top: auto; left: 0; bottom: 0; position: absolute; margin-right: 0; margin-bottom: 0; margin-top: auto;">
+            <ui:Label text="Player 4" display-tooltip-when-elided="true" name="Player4_Label" style="top: auto; width: auto; transform-origin: center; align-items: auto; justify-content: flex-start; color: rgb(255, 228, 58);" />
+            <ui:Label text="Verbleibende Karten" display-tooltip-when-elided="true" name="Score_Player4" style="color: rgb(255, 228, 58);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

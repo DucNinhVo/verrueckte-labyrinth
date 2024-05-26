@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 058dd46e670d159478423fc5111b712a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - corner: {fileID: 21300000, guid: 3bb31998f95f6f746bcc4fbfbab03561, type: 3}
+  - straight: {fileID: 21300000, guid: 14f38e12dd5bce040af7972a1909e36f, type: 3}
+  - cornerStraight: {fileID: 21300000, guid: a6f51c594d1594e4c8f77435d5f7dbb4, type: 3}
+  - startBlue: {fileID: 21300000, guid: 2e6f99eede7f5d8488c01c135484fd69, type: 3}
+  - startGreen: {fileID: 21300000, guid: 3a16c82bfabeb8f419f6761686cc2e4b, type: 3}
+  - startRed: {fileID: 21300000, guid: 6a170be393776864cb597447781fd892, type: 3}
+  - startYellow: {fileID: 21300000, guid: cfbd2f0603adcfa43a4fe62080a2353a, type: 3}
+  - cornerAnvil: {fileID: 21300000, guid: a16c1dcc3f77abf4681a09e492880bd0, type: 3}
+  - cornerBattery: {fileID: 21300000, guid: ae98ccc8ec759244e8032bcb089c7240, type: 3}
+  - cornerCham: {fileID: 21300000, guid: 8694a2d078e10014184dde71ea8652e6, type: 3}
+  - cornerCola: {fileID: 21300000, guid: 324b310ad1479e845b5d6cff74a38211, type: 3}
+  - cornerKrombacher: {fileID: 21300000, guid: 1624ef43e13050a49a3694e0b5313aa0, type: 3}
+  - cornerRubicsCube: {fileID: 21300000, guid: 1e720fe89b46b884280c54bc750c3d98, type: 3}
+  - cornerStraightCoffe: {fileID: 21300000, guid: 89d1d5e72cf064440a75f1243a25bf24, type: 3}
+  - cornerStraightDucktape: {fileID: 21300000, guid: 61e2534df2ef2894f9eeccc8373ac590, type: 3}
+  - cornerStraightGameCube: {fileID: 21300000, guid: ff43d6f64e99e8b42bd178a5c621ca32, type: 3}
+  - cornerStraightGollum: {fileID: 21300000, guid: f7389318b1c53184098c97c59dabb001, type: 3}
+  - cornerStraightKnightGold: {fileID: 21300000, guid: 853392550e2042f489a5ab7ac3fff38a, type: 3}
+  - cornerStraightKnightRed: {fileID: 21300000, guid: 359e29c36e5345440965bfd4805be54e, type: 3}
+  - cornerStraightMario: {fileID: 21300000, guid: dd0eaf58355dda448875d56b886780d4, type: 3}
+  - cornerStraightMonitor: {fileID: 21300000, guid: a1320ca41c0c7204686e664b5d0e3aa5, type: 3}
+  - cornerStraightPokeball: {fileID: 21300000, guid: e4be02472c3ecad41a273127fe1684e9, type: 3}
+  - cornerStraightPolice: {fileID: 21300000, guid: a29acc910e0af1a4497a95db305a2a1a, type: 3}
+  - cornerStraightRaspb: {fileID: 21300000, guid: ffb2e4604963e8e41b43a31cffe8d11c, type: 3}
+  - cornerStraightRemote: {fileID: 21300000, guid: 567108f8836fabe428bf18f09aef9ddd, type: 3}
+  - cornerStraightScrew: {fileID: 21300000, guid: 40a2e1719d18c7247a654333fa3f4601, type: 3}
+  - cornerStraightSkull: {fileID: 21300000, guid: a4e4641eb7ab8c441bdbeb71cdc2e66d, type: 3}
+  - cornerStraightSmartphone: {fileID: 21300000, guid: c2e18e269a3bf8a44b1207c136be9686, type: 3}
+  - cornerStraightSnes: {fileID: 21300000, guid: 50b6d9c0b338b9b4682ca7457ba7d8bb, type: 3}
+  - cornerStraightSword: {fileID: 21300000, guid: 1597aa20722862141b0060be72985a36, type: 3}
+  - cornerStraightWalter: {fileID: 21300000, guid: 18e654a26fcf23348b18ecd6adc3765f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
